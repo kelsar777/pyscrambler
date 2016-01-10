@@ -1,4 +1,6 @@
 #pyscramber
+This is a tool for creaitng scrambles of rubik's cubes - 2x2 or 3x3 and given training solving algorithms.
+
 
 How to use?
 We need run scrambler.py:
