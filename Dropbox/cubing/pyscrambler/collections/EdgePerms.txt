@@ -1,0 +1,5 @@
+R2 U (R U R' U')(R' U')(R' U R')
+M2 U M2 U M' U2 M2 U2 M' U2
+M2 U M2 U2 M2 U M2
+(R U')(R U)(R U)(R U') R' U' R2
+

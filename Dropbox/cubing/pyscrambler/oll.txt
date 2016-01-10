@@ -1,0 +1,4 @@
+F U R U' R' F'
+F R U R' U' F'
+f U R U' R' f' F U R U' R' F'
+
